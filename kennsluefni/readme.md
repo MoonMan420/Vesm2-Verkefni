@@ -1,0 +1,1 @@
+## Yfirlit yfir kennsluefni
