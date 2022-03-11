@@ -37,8 +37,9 @@ Skrifaðu forrit sem skrifar á skjáinn *Hello* fimm sinnum og síðan *World* 
 Aukabjargir: [Skilyrðissetningar](https://github.com/VESM2VT/arduino/wiki/Forritun#skilyr%C3%B0issetningar)
 
 1. Skrifaðu forrit sem les inn einn staf (`char`) frá Serial Monitor. Ef stafurinn er `h` á að skrifa til Serial Monitor **"hallo"** en ef stafurinn er `b` á að skrifa **"bless"**. Notaðu `if` setningar til að leysa þennan lið.
-1. Bættu við forritið: Ef einhver annar stafur er sleginn inn á að birtast á Serial Monitor **"skil ekki!!"**.
+1. Bættu við forritið: Ef einhver annar stafur er sleginn inn á að birtast á Serial Monitor **"skil ekki!!"**. Ath new line tilvik: `if(stafur != '\n')`
 1. Endurskrifaðu forritið úr lið 1 og 2 þannig að það noti `swith-case` í stað `if`.
+
 
 ---
 
