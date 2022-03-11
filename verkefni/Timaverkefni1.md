@@ -4,8 +4,8 @@
 
 Bjargir:
 
-- [Skrifað í Serial Monitor](https://github.com/VESM2VT/Efni/blob/main/Kennsluefni/ArduinoForritun.md#skrifað-%C3%AD-serial-monitor)
-- [Lesið frá Serial Monitor](https://github.com/VESM2VT/Efni/blob/main/Kennsluefni/ArduinoForritun.md#lesið-inn-frá-serial-monitor)
+- [Skrifað í Serial Monitor](https://github.com/VESM2VT/arduino/wiki/Forritun#skrifa%C3%B0-%C3%AD-serial-monitor)
+- [Lesið frá Serial Monitor](https://github.com/VESM2VT/arduino/wiki/Forritun#lesi%C3%B0-inn-fr%C3%A1-serial-monitor)
 
 Munum að alltaf þegar nota á Serial Monitor þarf að setja ```Serial.begin(9600);``` í ```setup``` fallið.
 
@@ -34,7 +34,7 @@ Skrifaðu forrit sem skrifar á skjáinn *Hello* fimm sinnum og síðan *World* 
 
 ### 1.2 Halló og bless
 
-Aukabjargir: [Skilyrðissetningar](https://github.com/VESM2VT/Efni/blob/main/Kennsluefni/ArduinoForritun.md#skilyrðissetningar)
+Aukabjargir: [Skilyrðissetningar](https://github.com/VESM2VT/arduino/wiki/Forritun#skilyr%C3%B0issetningar)
 
 1. Skrifaðu forrit sem les inn einn staf (`char`) frá Serial Monitor. Ef stafurinn er `h` á að skrifa til Serial Monitor **"hallo"** en ef stafurinn er `b` á að skrifa **"bless"**. Notaðu `if` setningar til að leysa þennan lið.
 1. Bættu við forritið: Ef einhver annar stafur er sleginn inn á að birtast á Serial Monitor **"skil ekki!!"**.
