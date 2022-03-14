@@ -28,16 +28,11 @@ Skrifaðu svo í `loop` fallið viðeigandi línu þannig að þegar forritið k
 
 ---
 
-### 1.1.1 Hello World endurtekið (aftur og aftur)
-
+### 1.1 Hello World endurtekið (aftur og aftur)
 Skrifaðu forrit sem skrifar á skjáinn *Hello* fimm sinnum og síðan *World* fimm sinnum og endurtekur sig svo endalaust.
-Útfærðu forritið með því að nota tvær `for` lykkjur.
 
----
-
-### 1.1.2 Hello World endurtekið (aftur og aftur)
-Skrifaðu forrit sem skrifar á skjáinn *Hello* fimm sinnum og síðan *World* fimm sinnum og endurtekur sig svo endalaust.
-Útfærðu forritið með því að nota eina `if` setningu, eina `bool` breytu og eina teljarabreytu (`int`).
+1. Útfærðu forritið með því að nota tvær `for` lykkjur.
+1. Útfærðu í þetta skiptið forrit með því að nota eina `if` setningu, eina `bool` breytu og eina teljarabreytu (`int`).
 
 ---
 
