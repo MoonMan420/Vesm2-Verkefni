@@ -1,4 +1,9 @@
-# Tímaverkefni 1 - 5%
+# Tímaverkefni 1 
+
+- 5% af heildareinkunn
+- einstaklingsverkefni
+
+---
 
 ## Forritað með Serial Monitor
 
