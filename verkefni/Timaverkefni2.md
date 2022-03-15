@@ -10,7 +10,7 @@
 Kynntu þér hvernig 7-Segment virkar með því að lesa [þessa grein](https://lastminuteengineers.com/seven-segment-arduino-tutorial/).
 Til umhugsunar: Hvort er þitt 7-Segment Display *common anode* eða *common cathode*? Hver er munurinn á þessu tvennu?
 
-1. Í greininni er sýnd útfærsla á teljara. Settu teljarann upp á brauðbretti og settu kóðann á Arduino tölvuna þína **en farðu eftir [þessari mynd](https://raw.githubusercontent.com/VESM2VT/Efni/main/Myndir/SevenSeg_1_vidnam.png) til að tengja 7-Segment-ið**, notar bara eitt 1KΩ viðnám í stað átta 220Ω viðnáma. Notaðu útgáfu **3.5.0** af [SevSeg](https://github.com/DeanIsMe/SevSeg) safninu.
+1. Í greininni er sýnd útfærsla á teljara. Settu teljarann upp á brauðbretti og settu kóðann á Arduino tölvuna þína **en farðu eftir [þessari mynd](https://raw.githubusercontent.com/VESM2VT/Efni/main/Myndir/SevenSeg_1_vidnam.png) til að tengja 7-Segment-ið**, notar bara eitt 1KΩ viðnám í stað átta 220Ω viðnáma. Notaðu útgáfu **3.5.0** af [SevSeg](https://www.arduino.cc/reference/en/libraries/sevseg/) safninu.
 1. Þú veist að ```loop``` fallið er lykkja en í kóðadæminu er eina sem er í fallinu ```for``` lykkja. Breyttu útfærslunni á fallinu þannig að það þurfi ekki að nota "auka" lykkju.
 
 ---
