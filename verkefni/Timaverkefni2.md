@@ -16,7 +16,7 @@ Til umhugsunar: Hvort er þitt 7-Segment Display *common anode* eða *common cat
 ---
 
 #### 2.2 - Teningur (30%)
-1. Útfærðu teninginn (Rolling Dice) sem er neðst í [greininni](https://lastminuteengineers.com/seven-segment-arduino-tutorial/) en breyttu útfærslunni þannig að þú þurfir ekki "pullup" viðnámið heldur sé það leyst í kóða. 
+1. Útfærðu teninginn (Rolling Dice) sem er neðst í [greininni](https://lastminuteengineers.com/seven-segment-arduino-tutorial/) en breyttu útfærslunni þannig að þú þurfir ekki "pulldown" viðnámið heldur sé það leyst í kóða með innbyggða "pullup" viðnámið. 
 1. Dragðu úr "bounce" takkaáhrifum með kóðaútfærslu á [takkastöðubreytingum](https://github.com/VESM2VT/arduino/wiki/Unni%C3%B0-me%C3%B0-stafr%C3%A6n-gildi#st%C3%B6%C3%B0ubreyting-%C3%A1-takka) ("change state detection").
 
 ---
