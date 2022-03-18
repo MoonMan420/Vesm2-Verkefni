@@ -23,7 +23,7 @@ Til umhugsunar: Hvort er þitt 7-Segment Display *common anode* eða *common cat
 
 #### 2.3 - 7-Segment fjórir tölustafir (10%)
 
-Kynntu þér hvernig 7-Segment með fjórum tölustöfum virkar með því að lesa seinni hluta [þessarar greinar](https://www.circuitbasics.com/arduino-7-segment-display-tutorial/) (kaflinn *4 DIGIT 7-SEGMENT DISPLAYS*). 
+Kynntu þér hvernig 7-Segment með fjórum tölustöfum virkar með því að lesa seinni hluta [þessarar greinar](https://www.circuitbasics.com/arduino-7-segment-display-tutorial/) (kaflinn *4 DIGIT 7-SEGMENT DISPLAYS*) og horfa á þetta stutt myndband [How 4 Digit 7 Segment Displays Work](https://youtu.be/fYAlE1u5rno)
 Skoðaðu einnig stillingar og aðgerðir í [SevSeg safninu](https://github.com/DeanIsMe/SevSeg). 
 
 1. Settu upp fyrri rásina (sem birtir 4.999). Það á ekki á að setja upp seinni rásina (DISPLAYING SENSOR DATA).
