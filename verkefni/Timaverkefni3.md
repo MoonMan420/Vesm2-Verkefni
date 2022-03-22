@@ -18,7 +18,7 @@ Tengdu [stýripinnann](https://lastminuteengineers.com/joystick-interfacing-ardu
 
 1. Settu upp fjórar LED (ásamt viðeigandi viðnámum) á brauðbretti og raðaðu þeim í tígul (áttir). Stýrðu með stýripinnanum  (upp, niður, vinstri, hægri) hvaða LED er kveikt á hverju sinni, það á bara vera kveikt á einni LED peru í einu.  
 
-1. Stýripinni á X ás á að stýra birtistigi á LED peru, upphafstaðan (miðjan) er með hálft birtustig. Þegar X gildi hækkar (upp) þá eykst birtan, þegar X gildi lækkar (niður)  þá minnkar birtan. Notaðu hnappinn á stýripinnanum til að kveikja og slökkva á LED perunni með [state change](https://github.com/VESM2VT/arduino/wiki/Unni%C3%B0-me%C3%B0-stafr%C3%A6n-gildi#st%C3%B6%C3%B0ubreyting-%C3%A1-takka) kóðalausn.
+1. Stýripinni á X ás á að stýra birtistigi á einni LED peru, upphafstaðan (miðjan) er með hálft birtustig. Þegar X gildi hækkar (upp) þá eykst birtan, þegar X gildi lækkar (niður)  þá minnkar birtan. Notaðu hnappinn á stýripinnanum til að kveikja og slökkva á LED perunni með [state change](https://github.com/VESM2VT/arduino/wiki/Unni%C3%B0-me%C3%B0-stafr%C3%A6n-gildi#st%C3%B6%C3%B0ubreyting-%C3%A1-takka) kóðalausn.
 
 ---
 
