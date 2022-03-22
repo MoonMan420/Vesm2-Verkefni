@@ -4,7 +4,7 @@
 - 10% af heildareinkunn
 - Einstaklingsverkefni.
 - Settu upp verklega með brauðbretti og íhlutum.
-- Bjargir: [Hliðræn (analgo) gildi í Arduino](https://github.com/VESM2VT/Efni/blob/main/Kennsluefni/Analog.md)
+- Bjargir: [Hliðræn (analgo) gildi í Arduino](https://github.com/VESM2VT/arduino/wiki/Unni%C3%B0-me%C3%B0-hli%C3%B0r%C3%A6n-gildi)
 
 
 ---
