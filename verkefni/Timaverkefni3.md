@@ -24,7 +24,7 @@ Tengdu [stýripinnann](https://lastminuteengineers.com/joystick-interfacing-ardu
 
 ### 2. Kertaljós (50%)
 
-Í þessu verkefni sætlar þú að reyna líka eftir kerti sem er stjórnað af ljósnema. 
+Í þessu verkefni sætlar þú að reyna líkja eftir kerti sem er stjórnað af ljósnema. 
 
 1. Notaðu [LDR](https://create.arduino.cc/projecthub/tarantula3/using-an-ldr-sensor-with-arduino-807b1c) ljósnema til að stýra birtustigi á [RGB LED](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview). Þegar það verður minni birta í umhverfinu þá eykst birtan smám saman (fade in) á RGB LED og svo öfugt, þegar birtan eykst í umhverfinu þá dofnar RGB LED.
 1. Birtan af RGB LED á að líkjast kertaljósi, notaðu **alvöru** [random](https://www.arduino.cc/reference/en/language/functions/random-numbers/random/) til að ná kertaflökkt áhrifum, [sýnidæmi](https://github.com/VESM2VT/Efni/blob/main/Kodi/CandleLight.ino), nánar um [alvöru random](https://www.programmingelectronics.com/using-random-numbers-with-arduino/) (myndband).
