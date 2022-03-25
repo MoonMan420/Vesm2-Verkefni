@@ -23,7 +23,8 @@ Gerðu eftirfarandi:
 
 1. Með bílinn samsettan, settu upp rásina skv þessari [mynd](https://github.com/VESM2VT/arduino/blob/main/myndir/MotorControllerSetup.png). Þegar þetta er komið á bíllinn að geta keyrt án þess að vera tengdur með snúru í tölvu.
 1. Lestu þér til um [TB6612FNG H-Bridge](https://dronebotworkshop.com/tb6612fng-h-bridge/) og útfærðu eftirfarandi aðferðir með [kóða](https://dronebotworkshop.com/tb6612fng-h-bridge/#TB6612FNG_Arduino_Sketch) (ekki nota safnið í greininni): **fram**, **aftur**, **stopp**, **vinstri**, **hægri**, **hratt og hægt**. 
-<br> Kóðaviðbót: STANDBY pinni sem er tengdur við pinna 9 á Arduino þarf að vera skilgreindur sem OUTPUT með gildið HIGH.
+<br> 
+Bætt við eftirfarandi kóða: STANDBY pinni sem er tengdur við pinna 9 á Arduino þarf að vera skilgreindur sem OUTPUT með gildið HIGH.
 
 ---
 
