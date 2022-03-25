@@ -22,7 +22,7 @@ Gerðu eftirfarandi:
 ### 2. TB6612FNG H-Bridge (30%)
 
 1. Með bílinn samsettan, settu upp rásina skv þessari [mynd](https://github.com/VESM2VT/arduino/blob/main/myndir/MotorControllerSetup.png). Þegar þetta er komið á bíllinn að geta keyrt án þess að vera tengdur með snúru í tölvu.
-1. Lestu þér til um [TB6612FNG H-Bridge](https://dronebotworkshop.com/tb6612fng-h-bridge/) og útfærðu eftirfarandi aðferðir; **fram**, **aftur**, **stopp**, **vinstri**, **hægri**, **hratt og hægt**. Hér er [kóðasýnidæmi](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/TB6612FNG.md) til að vinna útfrá.
+1. Lestu þér til um [TB6612FNG H-Bridge](https://dronebotworkshop.com/tb6612fng-h-bridge/) og útfærðu eftirfarandi aðferðir; **fram**, **aftur**, **stopp**, **vinstri**, **hægri**, **hratt og hægt**. Hér er [kóðasýnidæmi](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/TB6612FNG.md) til að vinna útfrá. **Ath** ekki nota TB6612 SparkFun safnið úr greininni. 
 
 ---
 
