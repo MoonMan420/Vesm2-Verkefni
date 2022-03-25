@@ -35,7 +35,7 @@ void setup()
 
 void loop() 
 {  
-  //
+  // Standby power mode 
   digitalWrite(standby, HIGH);
   
   // Set Motor A forward
