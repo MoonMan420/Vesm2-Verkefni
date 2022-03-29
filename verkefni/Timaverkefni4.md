@@ -13,9 +13,9 @@ Gerðu eftirfarandi:
 1. Æfa lóðningu á header-um.
 1. Lóða header-a á TB6612FNG (lóða þanni að pinnaheiti vísa upp).
 1. Lóða víra á mótorana í bílasettinu (klipp male-female víra til að lóða á dc motora, ekki snúa uppá vír).
-1. Lóða víra á 4-battery hólfið.
-1. Festu mótorana á bílagrindina (boltahaus er að innanverðu).
-1. Festu rafhlöður, mótorstýringu, takka, Arduino og breadboard/veroborð á bílinn. 
+1. Lóða víra á 4-battery hólfið og 9V batterí.
+1. Festu mótorana (láta málmhuta vísa aftur) á bílagrindina (boltahaus er að innanverðu).
+1. Festu rafhlöður, mótorstýringu, on/off takkann, 9V batterí og Arduino á bílinn. 
 
 ---
 
@@ -43,6 +43,7 @@ Bíllinn á að gera eftirfarandi:
 1. Beygja til vinstri (90°)
 
 ---
+
 
 ## Námsmat og skil
 
