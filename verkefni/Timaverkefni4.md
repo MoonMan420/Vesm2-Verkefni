@@ -15,7 +15,7 @@ Gerðu eftirfarandi:
 1. Lóða víra á mótorana í bílasettinu (klipp male-female víra til að lóða á dc motora, ekki snúa uppá vír).
 1. Lóða víra á 4-battery hólfið.
 1. Festu mótorana á bílagrindina (boltahaus er að innanverðu).
-1. Festu rafhlöður, mótorstýringu, Arduino og breadboard/veroborð á bílinn. 
+1. Festu rafhlöður, mótorstýringu, takka, Arduino og breadboard/veroborð á bílinn. 
 
 ---
 
