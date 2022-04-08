@@ -6,7 +6,7 @@
 ---
 
 ### Fjarstýring fyrir bíl 
-Hannaðu fjarstýringu fyrir bílinn (snúra og þráðlaus möguleiki). Notaðu forrit TinkerCad fyrir 3D prentun. Fjarstýring þarf að vera **rúnuð**, falla vel að  höndum og rými þarf að vera vel skipulagt og með lokun. Sýnidæmi [Gamepad](https://www.youtube.com/watch?v=JCrsFxdJXu8)
+Hannaðu fjarstýringu fyrir bílinn (snúra og þráðlaus möguleiki). Notaðu forrit TinkerCad fyrir 3D prentun. Fjarstýring þarf að vera **rúnuð**, falla vel að  höndum og rými þarf að vera vel skipulagt og með loki. Sýnidæmi [Gamepad](https://www.youtube.com/watch?v=JCrsFxdJXu8)
 <!-- [Nunchuck](https://en.wikipedia.org/wiki/Wii_Remote#Nunchuk) -->
 
 #### Íhlutir sem þurfa að vera í fjarstýringunni:
