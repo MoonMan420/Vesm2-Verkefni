@@ -14,11 +14,11 @@ Hannaðu fjarstýringu fyrir bílinn (snúra og þráðlaus möguleiki). Notaðu
 - 9V batterí og [tengi](https://www.makerlab-electronics.com/wp-content/uploads/2017/08/9V-Battery-Clip.jpg)
 - [toggle switch](https://ae01.alicdn.com/kf/HTB1m0C1SXXXXXcGXpXXq6xXFXXXc/JOYING-LIANG-SS-12F30-Black-Small-Toggle-Switch-Toy-Switches.jpg) til að kveikja/slökkva á Arduino Nano
 - [433 mhz þráðlaus sendir](https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/)
-- [stýripinni](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)  
-  - [Hýsing fyrir stýripinna (glæra boxið)](https://www.thingiverse.com/thing:1162200). 
-  - hýsing fyrir stýripinna (Keystudio, græna boxið) - þarf að búa til
+- [Stýripinna](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/) sem þarf að aðlaga að fjarstýringu:
+    - hýsing fyrir stýripinna [(glært box)](https://www.thingiverse.com/thing:1162200)
+    - hýsing fyrir stýripinna Keystdudio [(grænt box)](https://github.com/VESM2VT/Efni/blob/main/Myndir/Fjarstyring.stl). 
 - Takki (Push-button)
-
+- Lokið er 3mm á þykkt og skorið út í plexigler ( aftan á fjarstýringu ).
 <!--  [MPU-6050 (gyro)](https://lastminuteengineers.com/mpu6050-accel-gyro-arduino-tutorial/) -->
 
 #### Fjarstýring þarf að geta framkvæmt amk. eftirfarandi aðgerðir:
@@ -33,4 +33,5 @@ Hannaðu fjarstýringu fyrir bílinn (snúra og þráðlaus möguleiki). Notaðu
 ### Námsmat og skil
 - Yfirferð og námsmat á sér stað í tíma.
 - Gefið er heilt fyrir fullnægjandi útfærslu, hálft ef ábótavant, ekkert ef stórlega ábótavant eða vantar.
-- Skilaðu á Innu fjarstýringu á STL sniðmáti.
+- Skilaðu á Innu fjarstýringu á STL sniðmáti ásamt lengd x breidd á lokinu (plexigler) í athugasemd.
+
