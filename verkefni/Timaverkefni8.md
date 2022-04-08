@@ -16,7 +16,7 @@ Hannaðu fjarstýringu fyrir bílinn (snúra og þráðlaus möguleiki). Notaðu
 - [433 mhz þráðlaus sendir](https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/)
 - [stýripinni](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)  
   - [Hýsing fyrir stýripinna (glæra boxið)](https://www.thingiverse.com/thing:1162200). 
-  - hýsing fyrir stýripinna (Keystudio, græna boxið) - vantar
+  - hýsing fyrir stýripinna (Keystudio, græna boxið) - þarf að búa til
 - Takki (Push-button)
 
 <!--  [MPU-6050 (gyro)](https://lastminuteengineers.com/mpu6050-accel-gyro-arduino-tutorial/) -->
