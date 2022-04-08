@@ -16,7 +16,7 @@ Hannaðu fjarstýringu fyrir bílinn (snúra og þráðlaus möguleiki). Notaðu
 - [433 mhz þráðlaus sendir](https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/)
 - [Stýripinna](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/) sem þarf að aðlaga að fjarstýringu:
     - hýsing fyrir stýripinna [(glært box)](https://www.thingiverse.com/thing:1162200)
-    - hýsing fyrir stýripinna Keystdudio [(grænt box)](https://github.com/VESM2VT/Efni/blob/main/Myndir/Fjarstyring.stl). 
+    - hýsing fyrir stýripinna Keystuddio [(grænt box)](https://github.com/VESM2VT/Efni/blob/main/Myndir/Fjarstyring.stl). 
 - Takki (Push-button)
 - Lokið er 3mm á þykkt og skorið út í plexigler ( aftan á fjarstýringu ).
 <!--  [MPU-6050 (gyro)](https://lastminuteengineers.com/mpu6050-accel-gyro-arduino-tutorial/) -->
