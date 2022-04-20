@@ -12,9 +12,9 @@
 1. Festu Sonic Sensor-inn á bláa micro [servo mótor](https://lastminuteengineers.com/servo-motor-arduino-tutorial/) og bílinn. 
 1. Notaðu kóða til að láta Ultrasonic snúa fram í upphafsstöðu.
 1. Bíllinn á að gera það sama og í verkefni 6.1 nema núna í stað þess að bíllinn snúi sér, þá á servo mótorinn að snúa Sonic Sensor-num.
-  - Servo-inn snýr Ultrasonic-inum í 0° kveikir á mælingu og ef fjarlægð í hindrun er meiri en 100cm snýr bíllinn sér til vinstri og keyrir áfram (snýr servo í 90°).
-  - Ef mælingin í 0° er minni en 100cm snýr servo-inn í 180° og aftur er mælt, ef fjarlægð er minna en 100cm snýr bíllinn sér til hægri og keyrir áfram (snýr servo í 90°).
-  - Annars snýr bíllinn í 180° og keyrir áfram (snýr servo í 90°).
+    - Servo-inn snýr Ultrasonic-inum í 0° kveikir á mælingu og ef fjarlægð í hindrun er meiri en 100cm snýr bíllinn sér til vinstri og keyrir áfram (snýr servo í 90°).
+    - Ef mælingin í 0° er minni en 100cm snýr servo-inn í 180° og aftur er mælt, ef fjarlægð er minna en 100cm snýr bíllinn sér til hægri og keyrir áfram (snýr servo í 90°).
+    - Annars snýr bíllinn í 180° og keyrir áfram (snýr servo í 90°).
 
 ---
 
