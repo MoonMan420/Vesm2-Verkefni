@@ -1,6 +1,5 @@
 # Tímaverkefni 9
 
-- 2 klst
 - 5% af heildareinkunn
 - Einstaklingsverkefni.
 - Settu upp verklega með brauðbretti og íhlutum.
