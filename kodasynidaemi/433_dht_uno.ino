@@ -32,7 +32,7 @@ void loop() {
 
   // athugum hvort við tókum á móti réttum gögnum
   if (mottakari.recv(minni, &staerd_minnis)) {
-    // afritum gögnin úr char minnishólfum (8 bitar) í float minnishófin (32 bitar)
+    // afritum gögnin úr char minnishólfum (8 bitar) í float minnishólfin (32 bitar)
     memcpy(maelingar, minni, staerd_minnis);
   }
       
