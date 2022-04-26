@@ -8,7 +8,7 @@
 ---
 
 1. Breitið virkni lögguljósanna þannig að þau blikka á meðann bíllinn keyrir. (50%)
-1. Notið takka til að kveikja og slökkva á lögguljósunum. (50%)
+1. Notið takka til að kveikja og slökkva á lögguljósunum á meðan bíllinn keyrir. (50%)
 
 <!--
 1. Látið fjarlægðarskynjarann stjórna stoppi og láta bílinn finna bestu leið.
