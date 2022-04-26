@@ -40,8 +40,7 @@ Kynntu þér [433MHz RF](https://lastminuteengineers.com/433mhz-rf-wireless-ardu
 
     *Skýringar á línunni `sendir.send((unsigned char*)maelingar, sizeof(maelingar))` í sendi forritinu:* Forritararnir sem skrifuðu RH_ASK safnið ákváðu að `send` fallið tæki bara við gögnum á forminu `unsigned char*` (unsigned char bendir (e. pointer)). Það þýðir að gögnin eru ekki send inn í fallið heldur er vísað á hvar þau eru í vinnsluminninu. Gögnin verða einnig að vera af taginu `unsigned char` þ.e.a.s. 8 bita stafir. Gögnin okkar (raki og hiti) eru aftur á móti geymd í `float` fylki en eins og allt sem tölvur vinna með þá eru gögnin á bitaforminu (e. binary). Ef rakinn (`maelingar[0]`) er t.d. 48.7 þá er það geymt í minninu sem `01000010010000101100110011001101` og hitinn (`maelingar[1]`) er t.d. 25.3 þá er það geymt sem `01000001110010100110011001100110`. Fylkið `maelingar` inniheldur því `0100001001000010110011001100110101000001110010100110011001100110` en til að `send` fallið geti unnið með það þá þurfum við að "plata" fallið þannig að það haldi að það sé að vinna með átta bita tölur. Þegar við setjum `(unsigned char*)` fyrir framan nafnið á fylkinu þá erum við að segja við fallið að gögnin líti svona út: `01000010 01000010 11001100 11001101 01000001 11001010 01100110 01100110` og þá sér fallið átta 8 bita stafi og það er það sem fallið vill vinna með. `sizeof(maelingar)` gefur okkur svo stærðina á fylkinu í bætum talið og það er einmitt átta bæti að stærð (2 * 32 bitar = 64 bitar eða 8 bæti).
 
-2. (30%) Tengdu núna stýripinnann við Nano og sendu X, Y og takkastöðuna yfir á Uno-inn og birtu í Serial Monitor. Þú sendir streng frá Nano en þarft að vinna með gildin sem heiltölur á Uno, leystu það. 
-
+2. (30%) Tengdu núna stýripinnann við Nano og sendu X, Y og takkastöðuna yfir á Uno-inn og birtu í Serial Monitor.
 ---
 
 ## Námsmat og skil
