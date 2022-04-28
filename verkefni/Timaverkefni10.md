@@ -34,7 +34,7 @@ Kynntu þér hvernig Inter-Integrated Circuit (I<sup>2</sup>C) virkar með því
 ---
 
 ## 3 433MHz RF (40%)
-Kynntu þér [433MHz RF](https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/) og settu upp kóðadæmið í greinni með Arduino Uno og Nano. Þú finnur RadioHead (RH_ASK) safnið [hér (zip skrá)](http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.121.zip).
+Kynntu þér [433MHz RF](https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/) og settu upp kóðadæmið í greinni með Arduino Uno og Nano. Þú finnur RadioHead (RH_ASK) safnið hér: http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.121.zip
 
 1. (10%) Fylgdu eftir [Demo 2 – Sending Sensor Data](https://dronebotworkshop.com/433mhz-rf-modules-arduino#Demo_2_8211_Sending_Sensor_Data) með DHT11 (G tengist í GND, V í 5V og S í digital pinna) og 433MHz RF. **Ekki** nota kóðann úr greininni heldur skaltu nota [þenna kóða](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/433_dht_nano.ino) fyrir sendinn (Nano) og [þennan kóða](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/433_dht_uno.ino) fyrir móttakarann (Uno).
 
