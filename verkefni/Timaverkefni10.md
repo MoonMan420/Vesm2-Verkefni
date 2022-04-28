@@ -20,7 +20,7 @@ Arduino Nano er alveg eins og Arduino Uno fyrir utan að Nano er minni og pinnar
 Verkefni: Settu upp rás sem inniheldur eitt LED (ásamt viðnámi) og einn takka. Þegar ýtt er á takkann á að kvikna á LED perunni.
 
 ## 2 I<sup>2</sup>C (50%)
-Kynntu þér hvernig Inter-Integrated Circuit (I<sup>2</sup>C) virkar með því að lesa þessa [grein](https://www.circuitbasics.com/how-to-set-up-i2c-communication-for-arduino/) (lestu **að** *HARDWARE COMPONENTS*). Skoðað einnig [Wire](https://www.arduino.cc/reference/en/language/functions/communication/wire/) safnið.
+Kynntu þér hvernig Inter-Integrated Circuit (I<sup>2</sup>C) virkar með því að lesa þessa [grein](https://www.circuitbasics.com/how-to-set-up-i2c-communication-for-arduino/) (lestu **að** *HARDWARE COMPONENTS*). Skoðaðu einnig [Wire](https://www.arduino.cc/reference/en/language/functions/communication/wire/) safnið.
 
 1. (10%) Settu [þennan](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/i2c_nano.ino) kóða upp á Nano-inn og tengdu við hann einn takka (þú sérð út frá kóðanum við hvaða pinna takkinn á að tengjast). Settu svo [þennan](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/i2c_uno.ino) kóða inn á Uno-inn. 
 2. (40%) I<sup>2</sup>C sendir bara eitt bæti í einu. Þegar senda á fleiri en eitt gildi má nota aðra af eftirfarandi aðferðum:
