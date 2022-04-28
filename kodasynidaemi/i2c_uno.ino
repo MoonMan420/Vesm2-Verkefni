@@ -1,6 +1,6 @@
 // Tengja saman SDA (A4), SCL (A5) og GND á Arduino borðunum
-
 // Þessi Arduino virkar sem þjónn (slave/peripheral)
+// Uno
 
 #include <Wire.h> // kóðasafnið fyrir I2C
 
