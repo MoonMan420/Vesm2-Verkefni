@@ -22,7 +22,7 @@ Verkefni: Settu upp rás sem inniheldur eitt LED (ásamt viðnámi) og einn takk
 ## 2 I<sup>2</sup>C (50%)
 Kynntu þér hvernig Inter-Integrated Circuit (I<sup>2</sup>C) virkar með því að lesa þessa [grein](https://www.circuitbasics.com/how-to-set-up-i2c-communication-for-arduino/) (lestu **að** *HARDWARE COMPONENTS*). Skoðaðu einnig [Wire](https://www.arduino.cc/reference/en/language/functions/communication/wire/) safnið.
 
-1. (10%) Settu [þennan](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/i2c_nano.ino) kóða upp á Nano-inn og tengdu við hann einn takka (þú sérð út frá kóðanum við hvaða pinna takkinn á að tengjast). Settu svo [þennan](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/i2c_uno.ino) kóða inn á Uno-inn. 
+1. (10%) Settu [þennan](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/i2c_nano.ino) kóða upp á Nano-inn og tengdu við hann einn takka (þú sérð út frá kóðanum við hvaða pinna takkinn á að tengjast). Settu svo [þennan](https://github.com/VESM2VT/arduino/blob/main/kodasynidaemi/i2c_uno.ino) kóða inn á Uno-inn með LED. 
 2. (40%) I<sup>2</sup>C sendir bara eitt bæti í einu. Þegar senda á fleiri en eitt gildi má nota aðra af eftirfarandi aðferðum:
    1. Vera með margar `Wire.write(gildi)` línur.
    2. Búa til fylki (svipað og listi í python) og senda það svo með `Wire.write(nafn_fylkis, stærð)` þar sem stærð er fjöldi staka í fylkinu. Fylkið þarf að vera af taginu `unsigned char` eða `byte` (en á bak við tjöldin er það sama tagið).   
