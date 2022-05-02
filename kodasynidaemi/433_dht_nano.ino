@@ -42,6 +42,11 @@ void loop() {
   // skrifum gögnin í fylkið
   maelingar[0] = raki;
   maelingar[1] = hiti;
+  
+  Serial.print("Sendir - Raki: ");
+  Serial.print(maelingar[0]);
+  Serial.print("  - Hiti: ");
+  Serial.println(maelingar[1]);
 
   // sendum fylkið, sjá skýringar í verkefnalýsingu á þessari línu
   sendir.send((unsigned char*)maelingar, sizeof(maelingar));
