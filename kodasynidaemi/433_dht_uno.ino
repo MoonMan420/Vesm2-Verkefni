@@ -36,7 +36,7 @@ void loop() {
     memcpy(maelingar, minni, staerd_minnis);
   }
       
-  Serial.print("Sendir - Raki: ");
+  Serial.print("Móttakari - Raki: ");
   Serial.print(maelingar[0]);
   Serial.print("  - Hiti: ");
   Serial.println(maelingar[1]);
