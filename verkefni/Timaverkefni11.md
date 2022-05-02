@@ -35,4 +35,4 @@ Forritaðu fjarstýringuna og bílinn þannig að hægt sé að stjórna bílnum
 - Yfirferð og námsmat á sér stað í tíma.
 - Gefið er heilt fyrir fullnægjandi útfærslu, hálft ef ábótavant, ekkert ef stórlega ábótavant eða vantar.
 - Skilaðu á Innu kóðalausnum.
-- Skilaðu á Innu myndbandi af bílnum, fjarstýringunni og virkni þeirra.
+- Skilaðu á Innu youtube vefslóð af bílnum, fjarstýringunni og virkni þeirra.
