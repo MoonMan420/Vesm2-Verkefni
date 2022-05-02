@@ -7,7 +7,7 @@
 
 ---
 
-1. Breyttu virkni lögguljósanna þannig að þau blikka á meðan bíllinn keyrir áfran. (50%)
+1. Breyttu virkni lögguljósanna þannig að þau blikka á meðan bíllinn keyrir áfram. (50%)
 1. Notaðu takka til að kveikja og slökkva á lögguljósunum á meðan bíllinn keyrir áfram. (50%)
 
 <!--
