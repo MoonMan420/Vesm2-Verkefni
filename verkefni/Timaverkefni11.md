@@ -7,7 +7,7 @@
 
 ### 1. Fjarstýring samsettning (30%)
 
-- Tengdu alla íhlutina sem eiga að vera í fjarstýringunni (lóðun og samsettning).
+- Tengdu alla íhlutina sem eiga að vera í fjarstýringunni (lóðun og samsettning). [Hér](https://raw.githubusercontent.com/VESM2VT/arduino/main/myndir/fjarstyring_tengingar.png) er mynd sem sýnir tengingarnar.
 - Tengdu 433 MHz móttakarann við bílinn.
 
 ---
