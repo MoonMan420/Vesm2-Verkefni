@@ -23,7 +23,7 @@
 1. Bíllinn á að keyra áfram þar til að Sonic Sensor-inn skynjar hindrun sem er nær bílnum en 50 cm. Þá á bíllinn að stoppa. 
 1. Servo mótorinn snýr Sonic Sensor-num til vinstri 90 gráður og Ultrasonic skynjarinn tekur fjarlægðamælingu
 1. Bíllinn snýr servo 180 gráður til hægri og Utrasonic skynjarinn tekur aðra mælingu. 
-1. Fjarlægðamlingar eru bornar saman og önnur er valin ef hindrun er fjær en 100 cm.
+1. Fjarlægðamælingar eru bornar saman og önnur er valin ef hindrun er fjær en 100 cm.
 1. Bíllinn snýr sér að þeirri átt þar sem fjarlægðin er meiri í hindrun, þ.e. ef hún er meiri en 100 cm.
 1. Ef bíllinn hefur enga góða átt til að keyra (minna en 100 cm í hindrun), þá beygir hann í 180° (snýr við) og heldur áfram för sinni.
 
