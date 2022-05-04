@@ -12,7 +12,7 @@
 
 ---
 
-### 2. Bílnum stýrt með stýripinna í gengum snúru (30%)
+### 2. Bílnum stýrt með stýripinna í gegnum snúru (30%)
 
 Forritaðu fjarstýringuna og bílinn þannig að hægt sé að stjórna bílnum með stýripinnanum sem notast við I2C samskiptastaðilinn. Fjarstýringin er tengd við Arduino á bílnum með snúru (vírum). Það þarf að vera hægt að keyra bílinn áfram og afturbak ásamt því að beygja til hægri og vinstri ásamt því að stjórna hraða og stoppa.
 
